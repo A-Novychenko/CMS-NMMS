@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "baners",
+  "info": {
+    "singularName": "baner",
+    "pluralName": "baners",
+    "displayName": "baner"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "slides": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::slide.slide",
+      "mappedBy": "baners"
+    }
+  }
+}

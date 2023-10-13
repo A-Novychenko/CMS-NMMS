@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_massages",
+  "info": {
+    "singularName": "about-massage",
+    "pluralName": "about-massages",
+    "displayName": "about_massage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "bgimg": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "img": {
+      "type": "string"
+    }
+  }
+}
