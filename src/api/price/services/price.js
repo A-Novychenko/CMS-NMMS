@@ -1,8 +1,6 @@
 'use strict';
 
-/**
- * price service
- */
+
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
