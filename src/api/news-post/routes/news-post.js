@@ -1,8 +1,6 @@
 'use strict';
 
-/**
- * news-post router
- */
+
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
