@@ -1,8 +1,6 @@
 'use strict';
 
-/**
- * review controller
- */
+
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
