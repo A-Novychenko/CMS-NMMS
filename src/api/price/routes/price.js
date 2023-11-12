@@ -1,8 +1,6 @@
 'use strict';
 
-/**
- * price router
- */
+
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
