@@ -1,8 +1,5 @@
 'use strict';
 
-/**
- * baner controller
- */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
