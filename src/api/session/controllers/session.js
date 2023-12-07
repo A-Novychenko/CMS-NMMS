@@ -1,8 +1,6 @@
 'use strict';
 
-/**
- * session controller
- */
+
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
