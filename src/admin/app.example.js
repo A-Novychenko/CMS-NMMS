@@ -18,7 +18,6 @@ const config = {
     // 'ru',
     // 'sk',
     // 'th',
-    // 'tr',
     // 'uk',
     // 'vi',
     // 'zh',
