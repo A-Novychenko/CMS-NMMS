@@ -19,7 +19,6 @@ const config = {
     // 'sk',
     // 'th',
     // 'uk',
-    // 'vi',
     // 'zh',
   ],
 };
