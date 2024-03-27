@@ -13,7 +13,6 @@ const config = {
     // 'pt',
     // 'ru',
     // 'sk',
-    // 'th',
     // 'uk',
     // 'zh',
   ],
