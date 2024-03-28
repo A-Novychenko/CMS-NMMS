@@ -10,7 +10,6 @@ const config = {
     // 'nl',
     // 'no',
     // 'pl',
-    // 'pt',
     // 'ru',
     // 'sk',
     // 'uk',
