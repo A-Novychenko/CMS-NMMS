@@ -10,7 +10,6 @@ const config = {
     // 'ru',
     // 'sk',
     // 'uk',
-    // 'zh',
   ],
 };
 
