@@ -5,7 +5,6 @@ const config = {
     // 'it',
     // 'ja',
     // 'nl',
-    // 'no',
     // 'pl',
     // 'ru',
     // 'sk',
