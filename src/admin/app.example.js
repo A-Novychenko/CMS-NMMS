@@ -3,7 +3,6 @@ const config = {
     // 'de',
     // 'it',
     // 'ja',
-    // 'nl',
     // 'ru',
     // 'sk',
     // 'uk',
