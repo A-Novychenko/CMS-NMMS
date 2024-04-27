@@ -1,5 +1,7 @@
 const config = {
-  locales: [],
+  locales: [
+    //uk
+  ],
 };
 
 const bootstrap = (app) => {
