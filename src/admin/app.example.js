@@ -1,5 +1,7 @@
 const config = {
   locales: [
+
+    //uk
   ],
 };
 
