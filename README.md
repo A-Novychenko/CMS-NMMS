@@ -40,7 +40,7 @@ Strapi gives you many possible deployment options for your project including [St
 - [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
 
 Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). 
-Your feedback and contributions are welcome!
+
 
 
 
