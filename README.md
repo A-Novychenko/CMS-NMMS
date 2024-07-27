@@ -12,28 +12,6 @@ yarn develop
 
 ### `start`
 
-Start your Strapi application 
-
-```
-yarn start
-```
-
-### `build`
-
-Build your admin panel.
-
-```
-
-yarn build
-```
-
-
-## 📚 Learn more
-
-
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
 
 
 
