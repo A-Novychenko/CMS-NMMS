@@ -18,4 +18,3 @@ yarn develop
 
 
 
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
