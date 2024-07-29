@@ -10,7 +10,6 @@ Start your Strapi application with autoReload enabled.
 yarn develop
 ```
 
-### `start`
 
 
 
