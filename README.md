@@ -6,9 +6,7 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 Start your Strapi application with autoReload enabled. 
 
-```
-yarn develop
-```
+
 
 
 
