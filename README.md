@@ -1,4 +1,4 @@
-# 🚀 Getting started with Strap
+# 🚀 Getting started with Str
 
 
 
