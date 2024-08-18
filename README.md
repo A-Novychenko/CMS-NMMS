@@ -1,4 +1,4 @@
-# 🚀 Getting started with Str
+# 🚀 Getting started
 
 
 
